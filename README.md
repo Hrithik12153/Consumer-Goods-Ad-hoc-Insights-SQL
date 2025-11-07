@@ -1,4 +1,5 @@
-# AtliQ Hardware Sales Analysis
+## Consumer-Goods-Ad-hoc-Insights-SQL
+
 
 This project focuses on analyzing sales data for AtliQ Hardware to uncover actionable insights and support strategic decision-making.
 
